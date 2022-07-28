@@ -492,13 +492,13 @@ button{
 
 .home {
   display: grid;
-  grid-template-columns: 1fr;
-  gap: 50px;
-  padding: 150px var(--px) var(--py);
-  background-image: url('../images/blackwoodtexture.jfif');
-  border: 12px solid rgb(0, 0, 0);
-  border-radius: 15px 45px 15px 15px;
-  background-attachment: fixed;
+    grid-template-columns: 1fr;
+    gap: 35px;
+    padding: 170px 15px;
+    background-image: url(../images/blackwoodtexture.jfif);
+    border: 12px solid rgb(0, 0, 0);
+    border-radius: 15px 45px 15px 15px;
+    background-attachment: fixed;
 }
 
 .home-left { 
